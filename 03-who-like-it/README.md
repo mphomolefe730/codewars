@@ -1,5 +1,5 @@
 # codewars
-Weekday challenges I do from "Codewars" to improve my Javascript and Python skills.
+# Weekday challenges I do from "Codewars" to improve my Javascript and Python skills.
 
 Task:
 create a function like the Facebook, Instagram or twitter like feature. Which takes a array containing the names of people that like an item, it must retrun the display text as:
