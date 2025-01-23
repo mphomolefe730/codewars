@@ -1,3 +1,9 @@
+/*
+	write a function if the first argument(string) passed in ends with
+	2nd argument(also a string).(e.g)
+	solution("abc","bc")//returns true
+	solution("abc","d")//returns false
+ */
 function solution(str, ending){
 	/*compStr = ending.length;
 	 * lastChar = str.substr(compStr-1);

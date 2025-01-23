@@ -1,7 +1,11 @@
-function (str){
-	//create a array to store very letter
+/*
+create a function reverse the string entered to it
+*/
+
+function rev(str){
+	//create a array to store every letter
 	reverseStr = [];
-	//get leength of entered
+	//get length of entered
 	length = str.length;
 	//run loop to go through very letter
 	for(let i = length; i > 0; i--){
